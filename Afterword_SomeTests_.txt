@@ -1,0 +1,162 @@
+
+### _This is amazing.
+**Does it do unicode text?**
+*let's try* ... 
+*ụṅịọn̄*
+How about IPA text? 
+* ʃɣŋθɬ→.ɯɤœɹçðɱʁɛʔɥɶǃχçʌβʋɪ *
+* ǀɨɴɻɽɓˠɞɠ͡ǂ̊ɗɸʘ̟ɦʈ̞ʀɘʷ̝ɚ̈ɭɮʝʰɢɟɖʂ̠ʕɳɰʙʙɕħʐ
+
+
+|Syntax | Description |
+| ------ | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
+|Stop| Labial Velar |Bilabial|Labio-Dental|Labio-Dental Alveolar
+|----|--------------|--------|------------|-----------|
+Plosive||p b|||Labialized Velar|Glottal|
+|Asp/breathy Voiced      |           | p^h^  b^h^| |  |
+|Double Articulation      |  k͡p   ɡ͡ɓ  | | |  |
+|Affricate |           | pf bv| |  |
+|Asp/Breathy|           | | |  |
+|Implosive  |           |  ƥ      ɓ| |  |
+| Retroflex |           | | |  |
+| Fricative |           | ɸ     β|f  v | tf dv |
+| Asp/Breathy Voiced    |           | | |  |
+| Rhotics: roll   |           | | |  |
+| Trill |
+|Lateral|
+|Nasal|ŋm|m|
+|Click|
+|Apporximant|
+
+
+
+
+|Stop|Alveolar|Palato-Alveolar|Palatal|Velar|Labialized Velar|Glottal|
+| ------ |-----|-- |---------------|-------|-----|---------------|
+|Plosive| t d       |   |    |     k  g       | k^w^ g^w^|
+|Asp/breathy Voiced | t^h^ d^h^ | || k^h^ g^h^  |kw^h^  gw^h^ | | 
+|Double Articulation|||||kf   gv|
+|Affricate| ts dz|ʧ ʤ|   |
+Asp/Breathy||ʧ^h^   ʤ^h^|
+|Implosive  | | | |  |
+| Retroflex | t ^<^ d          | | |  |
+| Fricative | s  z  | ʃ     ʒ | |ɣ  ||h|
+| Asp/Breathy Voiced| s^h^ z^h^|ʃ h   ʒh | |  |
+| Rhotics: roll   |r| | |  |
+| Trill ||||K^B^ G^B^||||
+|Lateral|l|
+|Nasal|n||ɲ|ŋ|ŋW||
+|Click|ɵ|
+|Apporximant||||Y|w||
+
+
+
+
+
+
+
+**Afterword**
+
+The Unified Standard Orthography for the Igbo Language Cluster (USOILC for short) was a 2011 work delivered by some of the best linguists and scholars of the Igbo language up till that time. It was researched and duly published but became orphaned shortly after it was delivered. Orphaned, because its adoption was not guided, guarded or shepherded by the great intellects behind it. Two of its would-be influencers became deceased each within ten years of its promulgation: N Emenanjo by 2017 and C Ohiri-Aniche by 2018. Both these professors, who made the teaching, learning, development and projection of Igbo language development their lives' work could not nurture their brain child to maturity. N Emenanjo mention ed the new metalanguage 'standard' in his last great textbook: *A grammar of Comparative Igbo* (2015) and C.Aniche-Ohiri also in her text, *Igbo Speech Varieties* (2013) but  the standard would have gained more projection and promotion had both these principals lived longer.  
+
+There are a few reasons why some more projection was due. Igbo itself as a spoken and written language of more than 35 million people on the planet has enjoyed some good success already; its phased development had already evolved a standard (Standard Igbo or SI) with which most boys and girls of school age are conversant with, in Nigeria. SI, as popularly dubbed by its adherents (all of us) was taught in secondary and tertiary institutions. 
+
+Graduates had been produced and the scholarship was generally good but, the desired explosion of popular works in literature had not yet occurred and literacy in the language when measured by and in native speakers, was not high. Literacy figures were not always easily found. A couple of reports were produced meanwhile flagging up the frightful spectre of looming language loss affecting Igbo language speakers (not by native speakers on the mainland but definitely reported in diaspora residents and itinerary groups of speakers) whose children and offspring were failing to succeed at masterful speech and fluency within a single generation. This, despite being parented by native speakers. Among this demographic, language loss was already part of a lived experience. Some attributed endangered species status to the language. 
+
+**Why a 'new' standard?** 
+
+Looming language loss by itself would have not been the only reason for the promotion of a new standard. A solution was to be crafted in answer to the 'dearth of literature' situation. There weren’t many books becoming published in good Igbo.  Those Igbo who have published books in Igbo swear by the adequacy and sufficiency of SI to carry all the hopes and aspirations of Igbo people.  Yet, SI has always been the preserve of academics and scholarly people. That it was used in scholastic learning at secondary schools and in universities was not accidental, it was deliberately crafted for such use in the exams curricula and to join the languages 'arms race' that sort of developed soon as independence was granted (and Nigeria was to self-govern) but, where was the language of artists, chancers, dramatists, comics and pure geniuses in the language? 
+Popular musicians had emerged meanwhile, rappers, Flavour, Phyno, Zoro, Raw, Iyke Onka, to mention a few. These were added to legends of the past: Ejiagha, Warrior, Oliver De Coque, and more … but, books of lyrics for some of these greats are practically non-existent.  
+The performances would be rendered in the Igbo in which the performers are fluent, likely to be a dialect or a variety.
+
+Chinua Achebe, one of Igbo country's greatest writers, (not in Igbo but in English) and generally, famously appeared to deride 'Standard Igbo' at his Odenigbo lecture of 1999.
+It didn't sufficiently cater to his Ogidi dialect or accent, he felt. And this is part of what insightful people felt about the Standard Igbo, it was Igbo, but it did not include all of the Igbo. It did not represent all of the sounds it was possible to make in the language. Whole speakers' speaking and writing were missing.
+
+Uzoma Nwaekpe, a scholarly head hails from Isiala Ngwa (one of the biggest Igbo groupings, by population) complains that his speech is not represented - their poems, their songs and dances cannot be rendered for posterity. And he was not the only one.  The dialect clusters were under-represented in Standard Igbo. 
+
+SI had a phonemic deficiency—whole lects and phonemes were missing. 
+
+How do you begin to remedy a situation like this? 
+
+One answer would be to conduct science. By this I mean, define the problem and study its nature. Assign parameters, test hypotheses by conducting experiments, and then promulgate theories and conclusions.  That, in a way, is what I feel our professors did with the USOILC. A few of them have published texts and the results of their research, which was done like this: speakers drawn from both the core and the periphery of Igbo were consulted, sampled and listened to. Our best linguists were tasked with distilling the results using all the tools of modern linguistics. Yet, even when you have dealt with core and periphery of the core, there are the extremes, at the places were Igbo crosses borders.  The Igbo of Abiriba, Ọhafia and Arọ are good examples. 
+
+But our professors were determind to try to include the dialects and harmonize their forms with existing forms drawn from SI, in order to cure its phonemic deficiency.  They braved the highly scientific and gilded halls of the International Phonetics Association, running the involved gauntlets; because while Igbo is not only to be mutually intelligible (native speakers and writers must understand themselves at least), there is also an international element to Igbo's language development. 
+
+Would it be possible for others in the world to assay to learn and pick up Igbo speaking and writing? That is what the current effort represents, the USOILC not only tried to cure the phonemic deficiency that SI was born with, it better acquits Igbo to the international community.   
+How is it that Igbo persons are able to take up other languages, English for instance and do wonderful things with it? 
+
+Chimaamanda Adiche was recently given the honorific of   **Odeluwa** by her native community. 
+That title means 'writer for the whole world'. ... The USOILC may mean that non Igbo persons may choose to accomplish great things in the world using Igbo in just the same way Chimaamanda uses English. 
+
+Today's effort
+
+But, this USOILC is not that widely known, which brings me to this part and why I am writing this preface—in the back (an afterword). The monograph containing the form which became SI, was produced by the SPILC—then Society for the promotion of Igbo Language and culture. It was signed by one of its leader—Dr Onwu, whose name became attached to it. After it got produced, it was given directly to teachers and leading students for immediate use. That caused direct introduction into the speech and language community, which afforded it legs to run. By contrast the monograph for the USOILC was captured and became marooned at the halls and offices of the Centre for Advanced Studies of African Society, in Cape Town.  They were its publishers and soon after it became published, its principals died. This has resulted in an awkward set of circumstances. 
+The USOILC became international immediately without adequate localisation. 
+
+The leading teachers of Igbo and the brightest lights of the speech community today are virtually  unaware of its existence. This is tragic. 
+
+When compared to Onwu's orthography the USOILC might well be a still born revolution. 
+
+In this digital era the USOILC monograph to the best of my knowledge has not been mass produced 
+and cannot be bought off the shelves of Amazon.com for instance. 
+
+That is why I am writing this ‘preface in the back’, an afterword, if I may. And you are reading the first effort to seed the monograph of the USOILC to the speech community beginning with various outposts of that community directly on social media. 
+
+Without a primary influencer or influencers, I am hoping this USOILC can go viral and generate much talking points and excitement within the community. I am hoping that as more people get to learn its content and the intentions of the framers, that more iterations and efforts will correct its mistakes and make it better. Not that I think many mistakes were made. I feel sure however, that  not all of the Igbo clusters were covered. 
+
+About the transcoded text
+
+You may find certain departures from the actual content of the monograph in this transcode,graph, but I can assure you this is not deliberate. Any errors found should be accounted mere copyist's errors. Hopefully, I can be contacted to remedy them.  There are places where there have been departures, for emphases or other effect and I have used brackets and parentheses to show these.  
+I have kept strict parallel page order and correspondence in this transcoded effort compared to what is found in the actual monograph offline. Hopefully this ‘pagination’ is retained in future. 
+
+In the sample text passage found on page 25 of the actual monograph the story telling how Tortoise (a well known totem animal of the Igbo) became King of Animals, the figure of tiger as Agụ was  used and I have changed it, since most Igbo might agree that Leopard is the better translation for Agụ than what our professors used. 
+
+Yet you cannot always pick and chose your way in a thing done by persons better than you; I still leave tiger crossed out in the text, so that it is recognised that the text of the USOILC might embody errors, but there are no errors of the language science at all. That, you must trust fully.  
+
+It's 2023 and Chat GPT (well known Artificial Intelligence (AI) technology) has appeared and I
+went along to ask the Large Language Model about the USOILC. 
+This is what it ‘said’. 
+
+Begin Quote.
+
+	Q: Please what do you know about the Unified Standard Orthography for the Igbo 		Language Cluster
+
+	A: The Unified Standard Orthography for the Igbo Language Cluster (USOILC) is a 	standardized writing 	system developed to provide consistency and uniformity in the 		representation of the Igbo language. It was developed by a committee of Igbo language 	scholars and linguists to address the variations and inconsistencies in the existing 	orthographic systems used for Igbo. 
+
+	The USOILC was designed to be inclusive and to accommodate the various dialects and 	sub-dialects within the Igbo language cluster. It provides guidelines for the representation of 	Igbo sounds, tones, and letters, as well as rules for punctuation, capitalization, and other 	aspects of writing. 
+
+	The development of the USOILC aimed to promote literacy, education, and communication 	in Igbo by providing a standardized writing system that can be used across different regions 	and communities. By establishing consistent spelling and pronunciation rules, it facilitates 	the learning and teaching of the language and enables easier communication and 	comprehension among Igbo speakers. 
+
+	The adoption and implementation of the USOILC are still ongoing processes, and it may 	take time for widespread acceptance and usage. However, the development of unified 		orthographic system like the USOILC is a significant step towards preserving and 	promoting the Igbo Language.
+
+End Quote. 
+
+(Optional) Verify this here:  http://bit.ly/chatgptonusoilc or 
+QR Code: 
+
+
+
+
+
+
+
+
+
+I think the AI has answered well. It is the reason why you are reading an after word here. 
+The intervention we needed as a community has been made. It was the USOILC and I broke protocol to ensure that we got our revolution. 
+
+My name's Kelechi Isiodu and I can be reached at kelechiisiodu@gmail.com. This effort was not for profit. It may make me a bit infamous, perhaps. I commend the effort to you nonetheless.  
+
+This transcoded text was checked, proofed and corrected by Iyke Onka a USOILC scholar and general great head.  
+
+The USOILC is now in your hands, see what you can do. 
+
+
+
+
+The Transcode is not be resold.
