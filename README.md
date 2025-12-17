@@ -5,4 +5,4 @@ To see this monograph (corpus) as it might be presented over the regular web, th
 
 visit: https://bafybeibl6qbgvc3gvl32xmfqmjlf6msvkevscrbipb24jloj64lopclyuq.ipfs.w3s.link
 ________________________________________________
-Copyright © 2025 Kelechi Isiodu
+© 2025 Kelechi Isiodu
